@@ -8,7 +8,7 @@
  *   אם ה-BFS נכשל (הפרס חסום), עוברים לפרס הבא.
  *
  * שימוש:  node stress_test.js [server_url] [duration_ms]
- * דוגמה:  node stress_test.js http://localhost:3006 30000
+ * דוגמה:  node robo.js
  */
 'use strict';
 
