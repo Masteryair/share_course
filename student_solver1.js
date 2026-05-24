@@ -2,7 +2,7 @@
 // ═══════════════════════════════════════════════════════════════════════════
 //  student_solver1.js — Automated greedy topology optimizer (student simulator)
 //
-//  Usage:  node student_solver1.js PLAYER_CODE http://localhost:8451  
+//  Usage:  node student_solver1.js PLAYER_CODE 192.168.60.104:8451  
 //
 //  Algorithm:
 //    1. Fetch the full problem from /api/problem
