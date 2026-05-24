@@ -1,8 +1,8 @@
 'use strict';
 // ═══════════════════════════════════════════════════════════════════════════
-//  student_solver.js — Automated greedy topology optimizer (student simulator)
+//  student_solver1.js — Automated greedy topology optimizer (student simulator)
 //
-//  Usage:  node student_solver.js <player_code> [http://localhost:8451]
+//  Usage:  node student_solver1.js PLAYER_CODE http://localhost:8451  
 //
 //  Algorithm:
 //    1. Fetch the full problem from /api/problem
